@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Spotify() {
     return (
-        <iframe src="https://open.spotify.com/embed/playlist/68gf4TkNkbsi9zZXcOparq" frameBorder="0" title="Spotify" className="h-full w-full bg-ub-cool-grey"></iframe>
+        <iframe src="https://open.spotify.com/embed/playlist/052qEMG7B2tieeRVJHfWQt" frameBorder="0" title="Spotify" className="h-full w-full bg-ub-cool-grey"></iframe>
     )
 }
 
