@@ -98,7 +98,7 @@ const apps = [
         favourite: false,
         desktop_shortcut: true,
         isExternalApp: true,
-        url: "https://github.com/suhail-moidin",
+        url: "https://github.com/suhailmoidin",
         screen: () => {},
     },
 ]
